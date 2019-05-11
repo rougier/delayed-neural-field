@@ -28,6 +28,5 @@ Contact Information
 References
 ----------
 
-**Activity spread and breathers induced by finite transmission speeds in
- two-dimensional neural fields**, Axel Hutt and Nicolas P. Rougier, Physical
- Review E: Statistical, Nonlinear, and Soft Matter Physics 82 (2010).
+**Activity spread and breathers induced by finite transmission speeds in two-dimensional neural fields**,
+Axel Hutt and Nicolas P. Rougier, Physical Review E: Statistical, Nonlinear, and Soft Matter Physics 82 (2010).
